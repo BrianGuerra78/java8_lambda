@@ -1,0 +1,19 @@
+
+]
+java:S1192	"GDefine a constant instead of duplicating this literal "Andres" 6 times.(‰”èû
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ñÂÚæıÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ú¡ôİøÿÿÿÿ
+q
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(ú¦¬ù
+Q	java:S125"<This block of commented-out lines of code should be removed.( Õ“…
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰‹èÄ
+w
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(ÿ€Œ¥øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¶·ä
+]	java:S125"<This block of commented-out lines of code should be removed.(ğÒ‡Ÿøÿÿÿÿ8“‰“È0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ˆûŒ
+y
+java:S4276"\Refactor this code to use the more specialised Functional Interface 'BinaryOperator<String>'(«¡§§8ëç—È0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿâ’şÿÿÿÿ8Ä‘—È0
